@@ -1,4 +1,4 @@
-import 'package:togo_app/domain/new_marker.dart';
+import 'package:togo_app/domain/new_car.dart';
 
 import '../data/datasources/markers_remote_data_source.dart';
 import 'remapper.dart';

@@ -1,5 +1,5 @@
 import 'package:togo_app/data/models/raw_car.dart';
-import 'package:togo_app/domain/new_marker.dart' as n;
+import 'package:togo_app/domain/new_car.dart' as n;
 
 class Remap {
   n.NewMarker dataToDomain(RawCar rawMarker) {
